@@ -1,63 +1,19 @@
-# Romain Colard
+### Hi there 👋, my name is Romain
+#### I am a web developer based around Nantes
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-Independent developer and maker building practical integrations between hardware, software, and digital fabrication.
+Skills: REACT / JS / HTML / CSS / TAILWINDCSS
 
-## Featured project — BambuDeck
+- 🔭 I’m currently working on this page. 
+- 💬 Ask me about Soccer, Video games 
 
-**BambuDeck** is an Elgato Stream Deck plugin built and tested with a **Bambu Lab P1S Combo + AMS**. It turns live printer data into a compact physical dashboard directly on Stream Deck.
 
-<p align="center">
-  <img src="assets/bambudeck-demo.jpg" alt="BambuDeck running on an Elgato Stream Deck with a Bambu Lab printer" width="320">
-</p>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rmncld)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/romain-colard/)  
 
-### Current capabilities
+<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
 
-- Printer connection and live operating status
-- Print progress and estimated remaining time
-- Nozzle, bed, and chamber temperatures
-- Part, auxiliary, and chamber fan speeds
-- Active speed mode
-- AMS filament colors and active slot
-- Chamber light ON/OFF
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rmncld)](https://github.com/anuraghazra/github-readme-stats)
 
-The current submission is intentionally **monitoring-first**: printer telemetry is read locally, and the chamber light is the only direct control included.
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rmncld&show_icons=true)  
 
-### Implementation
-
-- TypeScript
-- Elgato Stream Deck SDK
-- Local MQTT communication
-- Real-time state synchronization
-- Dynamic SVG key interfaces
-- Tested on Windows with Stream Deck MK.2
-
-### Project status
-
-BambuDeck is complete, working on real hardware, and has been **submitted to the Elgato Marketplace for review**. A full real-world demonstration video is available and shows the Stream Deck updating directly from the printer.
-
-## Snapmaker U1 integration concept
-
-The next objective is to apply the same proven Stream Deck approach to the **Snapmaker U1**.
-
-The concept focuses on a dedicated physical interface for:
-
-- Four independent toolheads
-- Per-toolhead state, temperature, and material information
-- Print status, progress, and remaining time
-- Fast access to the most useful monitoring data
-- A clean interface designed specifically for the U1 workflow
-
-The implementation would be explored around the U1 software ecosystem, including **Klipper, Moonraker, and Fluidd**, while respecting the interfaces and safety constraints available on the production machine.
-
-A U1 is required to develop, validate, and demonstrate this integration on real hardware.
-
-## About
-
-I design projects that solve real workshop problems first, then turn the successful prototypes into polished tools for other users.
-
-- [GitHub profile](https://github.com/rmncld)
-- [LinkedIn](https://www.linkedin.com/in/romain-colard/)
-
----
-
-BambuDeck is an independent project and is not affiliated with Bambu Lab or Elgato.
+![Profile views](https://gpvc.arturio.dev/rmncld)  
