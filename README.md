@@ -51,30 +51,51 @@ My work sits at the intersection of **web development**, **connected hardware**,
 
 ## Selected public work
 
-<p align="center">
-  <a href="https://github.com/rmncld/first-website">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=rmncld&amp;repo=first-website&amp;hide_border=true&amp;bg_color=081526&amp;title_color=63E6FF&amp;text_color=CBD5E1&amp;icon_color=4ADE80" alt="first-website repository">
-  </a>
-  <a href="https://github.com/rmncld/UIDesign">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=rmncld&amp;repo=UIDesign&amp;hide_border=true&amp;bg_color=081526&amp;title_color=63E6FF&amp;text_color=CBD5E1&amp;icon_color=4ADE80" alt="UIDesign repository">
-  </a>
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/rmncld/first-website">first-website</a></h3>
+      Front-end project exploring responsive layouts and modern web fundamentals.<br><br>
+      <code>Web</code> <code>Front-end</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/rmncld/UIDesign">UIDesign</a></h3>
+      Interface design experiments focused on visual hierarchy and composition.<br><br>
+      <code>UI</code> <code>Design</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/rmncld/Meteo-React">Meteo-React</a></h3>
+      React weather application using live data from a weather service.<br><br>
+      <code>React</code> <code>API</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/rmncld/cards">cards</a></h3>
+      Reusable card interface and front-end layout experiment.<br><br>
+      <code>UI</code> <code>Front-end</code>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <a href="https://github.com/rmncld/Meteo-React">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=rmncld&amp;repo=Meteo-React&amp;hide_border=true&amp;bg_color=081526&amp;title_color=63E6FF&amp;text_color=CBD5E1&amp;icon_color=4ADE80" alt="Meteo-React repository">
-  </a>
-  <a href="https://github.com/rmncld/cards">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=rmncld&amp;repo=cards&amp;hide_border=true&amp;bg_color=081526&amp;title_color=63E6FF&amp;text_color=CBD5E1&amp;icon_color=4ADE80" alt="cards repository">
-  </a>
-</p>
+## At a glance
 
-## GitHub activity
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rmncld&amp;show_icons=true&amp;hide_border=true&amp;bg_color=081526&amp;title_color=63E6FF&amp;text_color=CBD5E1&amp;icon_color=4ADE80&amp;rank_icon=github" alt="GitHub statistics">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmncld&amp;layout=compact&amp;hide_border=true&amp;bg_color=081526&amp;title_color=63E6FF&amp;text_color=CBD5E1" alt="Most used languages">
-</p>
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <strong>BUILD</strong><br>
+      Web applications
+    </td>
+    <td align="center" width="33%">
+      <strong>CONNECT</strong><br>
+      Software &amp; hardware
+    </td>
+    <td align="center" width="33%">
+      <strong>MAKE</strong><br>
+      Digital fabrication
+    </td>
+  </tr>
+</table>
 
 ## How I work
 
