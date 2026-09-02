@@ -54,9 +54,9 @@ My work sits at the intersection of **web development**, **connected hardware**,
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/rmncld/first-website">first-website</a></h3>
-      Front-end project exploring responsive layouts and modern web fundamentals.<br><br>
-      <code>Web</code> <code>Front-end</code>
+      <h3><a href="https://github.com/rmncld/BambuDeck">BambuDeck</a></h3>
+      Live Bambu Lab printer telemetry on a physical Stream Deck interface.<br><br>
+      <code>TypeScript</code> <code>MQTT</code> <code>Hardware</code>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/rmncld/UIDesign">UIDesign</a></h3>
