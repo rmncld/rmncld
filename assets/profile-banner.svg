@@ -10,7 +10,24 @@
 <circle cx="1070" cy="42" r="190" fill="#22d3ee" opacity=".07" filter="url(#glow)"/><circle cx="925" cy="335" r="170" fill="#4ade80" opacity=".06" filter="url(#glow)"/>
 <g opacity=".18" stroke="#6ee7f9" stroke-width="1"><path d="M760 0v360M820 0v360M880 0v360M940 0v360M1000 0v360M1060 0v360M1120 0v360M1180 0v360"/><path d="M720 60h480M720 120h480M720 180h480M720 240h480M720 300h480"/></g>
 <rect x="70" y="72" width="7" height="216" rx="3.5" fill="url(#accent)"/>
-<text x="112" y="160" fill="#f8fafc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="43" font-weight="700" letter-spacing="3">INDEPENDENT DEVELOPER &amp; MAKER</text>
-<text x="114" y="218" fill="#67e8f9" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="600" letter-spacing="2">HARDWARE  ×  SOFTWARE  ×  DIGITAL FABRICATION</text>
-<g transform="translate(838 92)"><rect width="270" height="176" rx="24" fill="#08101c" stroke="#30465d" stroke-width="3"/><g fill="#12263a" stroke="#4b657d" stroke-width="2"><rect x="26" y="24" width="54" height="54" rx="11"/><rect x="108" y="24" width="54" height="54" rx="11"/><rect x="190" y="24" width="54" height="54" rx="11"/><rect x="26" y="98" width="54" height="54" rx="11"/><rect x="108" y="98" width="54" height="54" rx="11"/><rect x="190" y="98" width="54" height="54" rx="11"/></g><rect x="38" y="36" width="30" height="30" rx="7" fill="#22d3ee" opacity=".85"/><path d="M121 63h28M135 49v28" stroke="#4ade80" stroke-width="6" stroke-linecap="round"/><circle cx="217" cy="51" r="15" fill="none" stroke="#67e8f9" stroke-width="5"/><path d="M41 132l13-17 14 17" fill="none" stroke="#4ade80" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/><path d="M121 136h28v-25h-28z" fill="none" stroke="#67e8f9" stroke-width="4"/><path d="M202 138l30-30M202 108l30 30" stroke="#94a3b8" stroke-width="4" stroke-linecap="round"/></g>
+<text x="112" y="145" fill="#f8fafc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="42" font-weight="700" letter-spacing="3">INDEPENDENT DEVELOPER</text>
+<text x="112" y="198" fill="#f8fafc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="42" font-weight="700" letter-spacing="3">&amp; MAKER</text>
+<text x="114" y="255" fill="#67e8f9" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="600" letter-spacing="2">HARDWARE  ×  SOFTWARE  ×  DIGITAL FABRICATION</text>
+<g transform="translate(876 89)">
+  <rect width="264" height="182" rx="25" fill="#08101c" stroke="#30465d" stroke-width="3"/>
+  <g fill="#12263a" stroke="#4b657d" stroke-width="2">
+    <rect x="24" y="25" width="56" height="56" rx="11"/>
+    <rect x="104" y="25" width="56" height="56" rx="11"/>
+    <rect x="184" y="25" width="56" height="56" rx="11"/>
+    <rect x="24" y="101" width="56" height="56" rx="11"/>
+    <rect x="104" y="101" width="56" height="56" rx="11"/>
+    <rect x="184" y="101" width="56" height="56" rx="11"/>
+  </g>
+  <rect x="38" y="39" width="28" height="28" rx="7" fill="#22d3ee" opacity=".9"/>
+  <path d="M119 53h26M132 40v26" stroke="#4ade80" stroke-width="6" stroke-linecap="round"/>
+  <circle cx="212" cy="53" r="14" fill="none" stroke="#67e8f9" stroke-width="5"/>
+  <path d="M39 137l13-17 13 17" fill="none" stroke="#4ade80" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="119" y="116" width="26" height="26" fill="none" stroke="#67e8f9" stroke-width="4"/>
+  <path d="M199 142l26-26M199 116l26 26" stroke="#94a3b8" stroke-width="4" stroke-linecap="round"/>
+</g>
 </svg>
