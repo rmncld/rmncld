@@ -66,9 +66,9 @@ My work sits at the intersection of **web development**, **connected hardware**,
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/rmncld/Meteo-React">Meteo-React</a></h3>
-      React weather application using live data from a weather service.<br><br>
-      <code>React</code> <code>API</code>
+      <h3><a href="https://github.com/rmncld/U1Deck">U1Deck</a></h3>
+      Proposed Snapmaker U1 Stream Deck integration for four independent toolheads.<br><br>
+      <code>TypeScript</code> <code>Moonraker</code> <code>U1</code>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/rmncld/cards">cards</a></h3>
