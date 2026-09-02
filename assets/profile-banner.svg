@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">Independent Developer and Maker</title>
+<desc id="desc">Professional banner representing software, Stream Deck integrations and digital fabrication.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#07111f"/><stop offset=".55" stop-color="#0b1627"/><stop offset="1" stop-color="#101d2b"/></linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#22d3ee"/><stop offset="1" stop-color="#4ade80"/></linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="12"/></filter>
+</defs>
+<rect width="1200" height="360" rx="28" fill="url(#bg)"/>
+<circle cx="1070" cy="42" r="190" fill="#22d3ee" opacity=".07" filter="url(#glow)"/><circle cx="925" cy="335" r="170" fill="#4ade80" opacity=".06" filter="url(#glow)"/>
+<g opacity=".18" stroke="#6ee7f9" stroke-width="1"><path d="M760 0v360M820 0v360M880 0v360M940 0v360M1000 0v360M1060 0v360M1120 0v360M1180 0v360"/><path d="M720 60h480M720 120h480M720 180h480M720 240h480M720 300h480"/></g>
+<rect x="70" y="72" width="7" height="216" rx="3.5" fill="url(#accent)"/>
+<text x="112" y="160" fill="#f8fafc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="43" font-weight="700" letter-spacing="3">INDEPENDENT DEVELOPER &amp; MAKER</text>
+<text x="114" y="218" fill="#67e8f9" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="600" letter-spacing="2">HARDWARE  ×  SOFTWARE  ×  DIGITAL FABRICATION</text>
+<g transform="translate(838 92)"><rect width="270" height="176" rx="24" fill="#08101c" stroke="#30465d" stroke-width="3"/><g fill="#12263a" stroke="#4b657d" stroke-width="2"><rect x="26" y="24" width="54" height="54" rx="11"/><rect x="108" y="24" width="54" height="54" rx="11"/><rect x="190" y="24" width="54" height="54" rx="11"/><rect x="26" y="98" width="54" height="54" rx="11"/><rect x="108" y="98" width="54" height="54" rx="11"/><rect x="190" y="98" width="54" height="54" rx="11"/></g><rect x="38" y="36" width="30" height="30" rx="7" fill="#22d3ee" opacity=".85"/><path d="M121 63h28M135 49v28" stroke="#4ade80" stroke-width="6" stroke-linecap="round"/><circle cx="217" cy="51" r="15" fill="none" stroke="#67e8f9" stroke-width="5"/><path d="M41 132l13-17 14 17" fill="none" stroke="#4ade80" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/><path d="M121 136h28v-25h-28z" fill="none" stroke="#67e8f9" stroke-width="4"/><path d="M202 138l30-30M202 108l30 30" stroke="#94a3b8" stroke-width="4" stroke-linecap="round"/></g>
+</svg>
