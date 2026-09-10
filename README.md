@@ -69,12 +69,12 @@ My work sits at the intersection of **web development**, **connected hardware**,
       Proposed Snapmaker U1 Stream Deck integration for four independent toolheads.<br><br>
       <code>TypeScript</code> <code>Moonraker</code> <code>U1</code>
     </td>
+    </tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/rmncld/UIDesign">UIDesign</a></h3>
       Interface design experiments focused on visual hierarchy and composition.<br><br>
       <code>UI</code> <code>Design</code>
     </td>
-  </tr>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/rmncld/cards">cards</a></h3>
