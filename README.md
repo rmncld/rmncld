@@ -56,14 +56,13 @@ My work sits at the intersection of **web development**, **connected hardware**,
     <td width="50%" valign="top">
   <h3>
     <a href="https://github.com/rmncld/BambuDeck">BambuDeck</a>
-    
   </h3>
-  Live Bambu Lab printer telemetry on a physical Stream Deck interface.<br><br>
+  Live Bambu Lab printer telemetry on a physical Stream Deck interface.<br><img src="./assets/bambu-icon.png" width="64" height="64" alt="BambuDeck" align="right"><br>
   <code>TypeScript</code> <code>MQTT</code> <code>Hardware</code>
 </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/rmncld/UIDesign">UIDesign</a></h3>
-      Interface design experiments focused on visual hierarchy and composition.<br><img src="./assets/bambu-icon.png" width="64" height="64" alt="BambuDeck" align="right"><br>
+      Interface design experiments focused on visual hierarchy and composition.<br><br>
       <code>UI</code> <code>Design</code>
     </td>
   </tr>
