@@ -64,7 +64,7 @@ My work sits at the intersection of **web development**, **connected hardware**,
     <td width="50%" valign="top">
       <h3>
         <a href="https://github.com/rmncld/U1Deck">U1Deck</a>
-        <img src="./assets/ud-icon.png" width="64" height="64" alt="BambuDeck" align="right">
+        <img src="./assets/u1deck-icon.png" width="64" height="64" alt="BambuDeck" align="right">
       </h3>
       Proposed Snapmaker U1 Stream Deck integration for four independent toolheads.<br><br>
       <code>TypeScript</code> <code>Moonraker</code> <code>U1</code>
