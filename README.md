@@ -55,7 +55,7 @@ My work sits at the intersection of **web development**, **connected hardware**,
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/rmncld/BambuDeck">BambuDeck</a></h3>
-      <img src="./assets/bambu-icon.png" width="80" height="80" alt="BambuDeck" align="right">
+      <img src="./assets/bambu-icon.png" width="64" height="64" alt="BambuDeck" align="right">
       Live Bambu Lab printer telemetry on a physical Stream Deck interface.<br><br>
       <code>TypeScript</code> <code>MQTT</code> <code>Hardware</code>
     </td>
