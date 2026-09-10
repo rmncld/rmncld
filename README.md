@@ -51,10 +51,16 @@ My work sits at the intersection of **web development**, **connected hardware**,
 
 ## Selected public work
 
+## Selected public work
+
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/rmncld/BambuDeck">BambuDeck</a></h3>
+      <h3>
+        <img src="./assets/bambudeck-icon.png" width="28" height="28" alt="BambuDeck" style="vertical-align: middle;">
+        &nbsp;
+        <a href="https://github.com/rmncld/BambuDeck">BambuDeck</a>
+      </h3>
       Live Bambu Lab printer telemetry on a physical Stream Deck interface.<br><br>
       <code>TypeScript</code> <code>MQTT</code> <code>Hardware</code>
     </td>
