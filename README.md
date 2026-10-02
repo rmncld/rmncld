@@ -64,7 +64,7 @@ My work sits at the intersection of **web development**, **connected hardware**,
     <td width="50%" valign="top">
       <h3>
         <a href="https://github.com/rmncld/U1Deck">U1Deck</a>
-        <img src="./assets/u1-icon.png" width="64" height="64" alt="BambuDeck" align="right">
+        <img src="./assets/u1-icon.png" width="64" height="64" alt="U1Deck" align="right">
       </h3>
       Proposed Snapmaker U1 Stream Deck integration for four independent toolheads.<br><br>
       <code>TypeScript</code> <code>Moonraker</code> <code>U1</code>
@@ -72,7 +72,10 @@ My work sits at the intersection of **web development**, **connected hardware**,
     </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/rmncld/MakerDeck">MakerDeck</a></h3>
+      <h3>
+        <a href="https://github.com/rmncld/MakerDeck">MakerDeck</a>
+        <img src="./assets/maker-icon.png" width="64" height="64" alt="MakerDeck" align="right">
+      </h3>
       Your plugin workflow. On your Stream Deck. Create, build, watch, validate and package your plugins.<br><br>
       <code>Stream Deck</code> <code>Developer tools</code> <code>Windows</code>
     </td>
