@@ -72,14 +72,14 @@ My work sits at the intersection of **web development**, **connected hardware**,
     </tr>
   <tr>
     <td width="50%" valign="top">
+      <h3><a href="https://github.com/rmncld/MakerDeck">MakerDeck</a></h3>
+      Your plugin workflow. On your Stream Deck. Create, build, watch, validate and package your plugins.<br><br>
+      <code>Stream Deck</code> <code>Developer tools</code> <code>Windows</code>
+    </td>
+    <td width="50%" valign="top">
       <h3><a href="https://github.com/rmncld/UIDesign">UIDesign</a></h3>
       Interface design experiments focused on visual hierarchy and composition.<br><br>
       <code>UI</code> <code>Design</code>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/rmncld/cards">cards</a></h3>
-      Reusable card interface and front-end layout experiment.<br><br>
-      <code>UI</code> <code>Front-end</code>
     </td>
   </tr>
 </table>
