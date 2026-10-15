@@ -85,6 +85,16 @@ My work sits at the intersection of **web development**, **connected hardware**,
       <code>UI</code> <code>Design</code>
     </td>
   </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>
+        <a href="https://github.com/rmncld/U1Care">U1 Care</a>
+        <img src="https://raw.githubusercontent.com/rmncld/U1Care/main/assets/U1-Care-logo.png" width="64" height="64" alt="U1 Care" align="right">
+      </h3>
+      Snapmaker U1 maintenance tracking for Home Assistant and Stream Deck. Maintenance reminders, official procedures and a separate service history for each task.<br><br>
+      <code>Home Assistant</code> <code>Stream Deck</code> <code>Maintenance</code>
+    </td>
+  </tr>
 </table>
 
 ## At a glance
